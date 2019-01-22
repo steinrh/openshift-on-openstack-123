@@ -129,7 +129,7 @@ Checkout release branch 3.11
 
 Configure Parameters
 ```
-# cp sample-vars.yml vars.yml
+# cp sample_vars.yml vars.yml
 ```
 ```
 # vi vars.yml
